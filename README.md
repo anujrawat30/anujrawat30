@@ -6,10 +6,9 @@ I’m a Data Analyst passionate about turning data into meaningful insights and 
 - 📚 Real-world learnings from analytics, coding, and problem-solving while balancing work.
 - 🌱 Thoughts on growth, consistency, and continuous learning.
 
-Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place! 🫶
-
+This GitHub is a collection of experiments, late-night ideas, data projects, dashboards, and tiny wins worth celebrating. Some projects are polished, some are chaotic — but every repo has a story.
 **Let’s connect, learn, and grow together—one repo at a time.**  
-You bring the snacks, I’ll bring the code 🍪💻
+If you leave inspired, entertained, or slightly smarter than before — mission accomplished.
 
 ## 🌟 Project Portfolio:
 [![Portfolio](https://img.shields.io/badge/Project%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://sugared-grade-8c9.notion.site/Anuj-Rawat-Data-Analyst-Portfolio-294c3e4fb7b08029bf60f1da61970e45?pvs=74)
